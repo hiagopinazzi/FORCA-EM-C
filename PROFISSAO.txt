@@ -1,0 +1,4 @@
+garcom
+taxi
+piloto
+contado
